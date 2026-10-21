@@ -1,0 +1,6 @@
+Ticket_ID,Subject,Description,Priority,Status
+TKT-0001,Login Issue,Unable to log in to account,High,New
+TKT-0002,Password Reset,Need help resetting password,Medium,New
+TKT-0003,General Enquiry,Need information about a service,Low,Open
+TKT-0004,Payment Issue,Payment was not reflected,High,New
+TKT-0005,Account Access,Unable to access account settings,Medium,Open
